@@ -113,7 +113,7 @@ Ctrl + b then d
 | Action               | Link                                                                 |
 |----------------------|----------------------------------------------------------------------|
 | 🔑 Generate Session | <a href="https://t.me/CertifiedSessionBot"><img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="180" /></a> |
-| ☁️ Heroku Deploy     | <a href="http://dashboard.heroku.com/new?template=https://github.com/CertifiedCoders/ANNIE-X-MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="180" /></a> |
+| ☁️ Heroku Deploy     | <a href="http://dashboard.heroku.com/new?template=https://github.com/shoaib910385/KRISHNAMUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="180" /></a> |
 
 ---
 
