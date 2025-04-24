@@ -31,9 +31,9 @@ from strings import get_string
 ANNIE_VID = [
     "https://files.catbox.moe/v5mfws.mp4",
     "https://telegra.ph/file/a4d90b0cb759b67d68644.mp4",
-    "https://files.catbox.moe/vj4shp.mp4",
+    "https://files.catbox.moe/2kdvk4.mp4",
     "https://telegra.ph/file/2b75449612172a96d4599.mp4",
-    "https://telegra.ph/file/b3ac2d77205d5ded860de.mp4",
+    "https://files.catbox.moe/2kdvk4.mp4",
     "https://files.catbox.moe/v5mfws.mp4",
     "https://telegra.ph/file/c6c1ac9aee4192a8a3747.mp4",
     "https://files.catbox.moe/v5mfws.mp4",
